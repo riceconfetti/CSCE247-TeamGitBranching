@@ -5,6 +5,8 @@
 
 ## Austin O'Malley
 - Feature 1
+- Feature 2
 
 ## Nghia Nguyen
 - Feature 1
+
