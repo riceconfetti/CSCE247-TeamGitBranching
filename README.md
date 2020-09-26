@@ -10,3 +10,4 @@
 - Feature 1
 ## Nghia Nguyen
 - Feature 1
+- Feature 2
